@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+
+
+
+[![Abdeghafour's top 4 langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelghafourT&layout=compact&theme=react&hide=css,html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
